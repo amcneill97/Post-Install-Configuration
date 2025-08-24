@@ -192,9 +192,9 @@ Steps to Configure Help Topics:
 <p>
 - Go to the Admin Panel.
 <p>
-- Click on **Manage** > **Help Topics**.
+- Click on Manage > Help Topics.
 <p> 
-- Click **Add New Help Topic** or edit an existing one.
+- Click Add New Help Topic or edit an existing one.
 <p>   
 - Fill in the following:
    
