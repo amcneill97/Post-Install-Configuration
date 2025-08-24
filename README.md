@@ -204,7 +204,7 @@ Steps to Configure Help Topics:
    - **Priority** – set default urgency
    - **SLA Plan** – apply an SLA automatically
    - **Auto-assign** – select an agent or team
-     
-7. Click **Save Changes**.
+<p>   
+- Click **Save Changes**.
 
 > 💡 Help Topics streamline ticket routing and ensure tickets go to the right team with the appropriate urgency.
