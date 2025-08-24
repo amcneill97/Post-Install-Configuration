@@ -183,5 +183,28 @@ SLA (Service Level Agreement) Plans define the expected response and resolution 
 
 > 💡 You can assign SLA Plans to Help Topics, Departments, or Tickets directly for automated prioritization.
 > <p>
-7. Configure Help Topics
 <p>
+7. Configuring Help Topics in osTicket
+
+Help Topics allow you to categorize incoming tickets and automatically assign departments, priorities, or SLA plans based on the topic selected by the user.
+<p>
+Steps to Configure Help Topics:
+<p>
+- Go to the Admin Panel.
+<p>
+- Click on **Manage** > **Help Topics**.
+<p> 
+- Click **Add New Help Topic** or edit an existing one.
+<p>   
+- Fill in the following:
+   
+   - **Topic Name** – e.g., "Technical Support", "Billing Inquiry"
+   - (Optional) **Parent Topic** – for creating a hierarchy of topics
+   - **Department** – auto-assigns tickets to the selected department
+   - **Priority** – set default urgency
+   - **SLA Plan** – apply an SLA automatically
+   - **Auto-assign** – select an agent or team
+     
+7. Click **Save Changes**.
+
+> 💡 Help Topics streamline ticket routing and ensure tickets go to the right team with the appropriate urgency.
