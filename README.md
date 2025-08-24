@@ -29,7 +29,7 @@ This guide walks through the post-install setup and configuration of osTicket, a
 <p>
 1. Configure roles and permissions through the 'Admin' tab. If it says 'Agent' at the top right, you will know you are on the admin tab.
 <p>  
-<img width="445" height="163" alt="image" src="https://github.com/user-attachments/assets/bb2a030a-d6c8-489e-a153-d1b051637444" />
+<img width="442" height="293" alt="image" src="https://github.com/user-attachments/assets/619d7001-7801-45d3-a58e-ddebff59d826" />
 
 To control what agents can see or access in osTicket:
 
@@ -105,14 +105,39 @@ To accept tickets via email from unregistered users:
    
 <p>
 <img width="440" height="397" alt="image" src="https://github.com/user-attachments/assets/dba6948a-b03f-40d0-b53d-520ef0413d20" />
-
-</p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Steps to Configure Agents:
+- Navigate to the **Admin Panel**.
+   
+- Click on **Agents** in the sidebar menu.
+  
+- Choose an existing agent to edit, or click **Add New Agent**.
+  
+- Enter the agent’s details:
+   - **Full Name**
+   - **Email Address**
+   - **Username** and **Password**
+   - **Primary Department** (determines initial ticket access)
+- Assign a **Role**:
+   - Roles define what the agent can see and do in the system (e.g., Admin, Support Staff).
+- (Optional) Assign the agent to one or more **Teams** for collaborative ticket handling.
+- Click **Save Changes** to apply the configuration.
+
+> 💡 Use roles and departments strategically to control access and responsibilities across your support team.
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+6. Configuring SLA Plans in osTicket
+<p> 
+SLA (Service Level Agreement) Plans define the expected response and resolution times for tickets. They help prioritize support and measure performance.
+
+#### Steps to Configure SLA Plans:
+
+- Go to the **Admin Panel**.
+- Click on **Manage** > **SLA Plans**.
+- Click **Add New SLA Plan**.
+- Fill in the following fields:
+   - **Name** – e.g., "Standard", "Priority Support"
+   - **Grace Period** – time allowed to respond or resolve (in hours)
+   - **Schedule** – choose when the SLA applies (business hours, weekends, etc.)
+- Click **Save Changes**.
+
+> 💡 You can assign SLA Plans to Help Topics, Departments, or Tickets directly for automated prioritization.
