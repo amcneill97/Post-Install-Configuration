@@ -25,9 +25,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-  
 1. Configure roles and permissions through the 'Admin' tab. If it says 'Agent' at the top right, you will know you are on the admin tab.
-
+<p>  
 <img width="445" height="163" alt="image" src="https://github.com/user-attachments/assets/bb2a030a-d6c8-489e-a153-d1b051637444" />
 
 To control what agents can see or access in osTicket:
@@ -59,11 +58,26 @@ To control what agents can see or access in osTicket:
 > 💡 Departments can be used to route tickets automatically and define which agents have access to certain types of requests.
 
 <p>
-<br />
+3. Teams are used to group agents for collaboration and ticket assignment across departments. To set up or manage teams:
+<p>
+<img width="439" height="140" alt="image" src="https://github.com/user-attachments/assets/0a237bbe-bf1d-444b-9a0b-c84f99ad8a1c" />
+
+
+- Navigate to the **Admin Panel**.
+- Click on **Teams** in the navigation menu.
+- Select an existing team to edit, or click **Add New Team**.
+- Fill in the team details:
+   - **Name** – e.g., "Level 2 Support", "Escalations Team"
+   - **Team Lead** – the agent responsible for overseeing the team
+   - **Members** – select agents to include in the team
+- Define the team's access level and assign them to specific departments if needed.
+- Click **Save Changes** to apply the configuration.
+
+> 💡 Teams are useful for organizing agents by expertise or responsibility, especially when tickets span multiple departments or require escalation.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+4.
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
