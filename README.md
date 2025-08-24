@@ -33,7 +33,7 @@ If it says 'Agent' at the top right, you will know you are on the admin tab.   ~
 
 <p>  
 <img width="442" height="293" alt="image" src="https://github.com/user-attachments/assets/619d7001-7801-45d3-a58e-ddebff59d826" />
-
+<p> 
 To control what agents can see or access in osTicket:
 
 - Navigate to the **Admin Panel**.
@@ -161,6 +161,9 @@ Steps to Configure Agents:
 6. Configuring SLA Plans in osTicket
 <p> 
 SLA (Service Level Agreement) Plans define the expected response and resolution times for tickets. They help prioritize support and measure performance.
+<p>
+<img width="442" height="270" alt="image" src="https://github.com/user-attachments/assets/ef532308-2b56-40a3-9a8a-0982735a5296" />
+<p>
 
 #### Steps to Configure SLA Plans:
 
