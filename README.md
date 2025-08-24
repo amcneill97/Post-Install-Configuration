@@ -182,3 +182,6 @@ SLA (Service Level Agreement) Plans define the expected response and resolution 
 - Click **Save Changes**.
 
 > 💡 You can assign SLA Plans to Help Topics, Departments, or Tickets directly for automated prioritization.
+> <p>
+7. Configure Help Topics
+8. <p>
