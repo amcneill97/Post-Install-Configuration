@@ -43,7 +43,8 @@ To control what agents can see or access in osTicket:
 <p>
 2. Configure Departments through the 'Departments' tab.
 <p>
-<img width="442" height="411" alt="image" src="https://github.com/user-attachments/assets/99bc5db2-d0ae-4544-85d9-97b6f1b5d1c3" />
+<img width="438" height="206" alt="image" src="https://github.com/user-attachments/assets/44dfa4b6-3323-4883-913e-2e785d31a117" />
+
 <p>
   
 - Go to the **Admin Panel**.
@@ -80,7 +81,8 @@ To control what agents can see or access in osTicket:
 <p>
 4. Unrestrict ticket creation so anyone can submit tickets
 <p>
-<img width="441" height="314" alt="image" src="https://github.com/user-attachments/assets/8436071e-e179-4fd5-bb7c-83090a6719ad" />
+<img width="440" height="281" alt="image" src="https://github.com/user-attachments/assets/db084bd2-3b15-4062-a6bb-6d1d8f1073e7" />
+
 <p> 
 By default, osTicket may restrict ticket creation to registered users or authenticated agents. To allow anyone to create tickets (e.g., via the web form or email):
 
@@ -100,10 +102,10 @@ To accept tickets via email from unregistered users:
 > ⚠️ Allowing unrestricted ticket creation may increase the risk of spam. Consider enabling CAPTCHA or using a spam filter.
 <p>
 5. Configure Agents
-
-
+   
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="440" height="397" alt="image" src="https://github.com/user-attachments/assets/dba6948a-b03f-40d0-b53d-520ef0413d20" />
+
 </p>
 <br />
 
