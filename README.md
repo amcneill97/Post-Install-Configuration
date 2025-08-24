@@ -27,7 +27,10 @@ This guide walks through the post-install setup and configuration of osTicket, a
 <h2>Configuration Steps</h2>
 
 <p>
-1. Configure roles and permissions through the 'Admin' tab. If it says 'Agent' at the top right, you will know you are on the admin tab.
+1. Configure roles and permissions through the 'Admin' tab. 
+
+If it says 'Agent' at the top right, you will know you are on the admin tab.   ~  <img width="150" height="35" alt="image" src="https://github.com/user-attachments/assets/ee72bbc2-1067-4133-aaa0-cc21dfcec087" />
+
 <p>  
 <img width="442" height="293" alt="image" src="https://github.com/user-attachments/assets/619d7001-7801-45d3-a58e-ddebff59d826" />
 
@@ -46,14 +49,15 @@ To control what agents can see or access in osTicket:
 > 💡 Use roles and permissions carefully to maintain security and appropriate access levels within your support system.
 <p>
 2. Configure Departments through the 'Departments' tab.
-<p>
+<p> 
 <img width="438" height="206" alt="image" src="https://github.com/user-attachments/assets/44dfa4b6-3323-4883-913e-2e785d31a117" />
 
 <p>
   
-- Go to the **Admin Panel**.
+- Go to the **Admin Panel**. 
+
   
-- Click on **Departments** in the navigation menu.
+- Click on **Agents** > **Departments**.
   
 - Select an existing department to edit, or click **Add New Department**.
   
