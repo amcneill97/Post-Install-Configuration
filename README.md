@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>osTicket - Post-Installation Setup</h1>
 This guide walks through the post-install setup and configuration of osTicket, an open-source support ticketing platform.<br />
 
 
