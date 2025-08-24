@@ -72,7 +72,7 @@ To control what agents can see or access in osTicket:
 <p>
 3. Teams are used to group agents for collaboration and ticket assignment across departments. To set up or manage teams:
 <p>
-<img width="439" height="140" alt="image" src="https://github.com/user-attachments/assets/0a237bbe-bf1d-444b-9a0b-c84f99ad8a1c" />
+<img width="440" height="65" alt="image" src="https://github.com/user-attachments/assets/7d037f62-1c4b-4d5e-b7a9-9b37aa01b406" />
 
 
 - Navigate to the **Admin Panel**.
@@ -126,7 +126,8 @@ To accept tickets via email from unregistered users:
 5. Configure Agents
    
 <p>
-<img width="440" height="397" alt="image" src="https://github.com/user-attachments/assets/dba6948a-b03f-40d0-b53d-520ef0413d20" />
+<img width="440" height="397" alt="image" src="https://github.com/user-attachments/assets/1c4b2c1c-559c-4758-9fb1-46b8bea6049d" />
+
 <p>
 Steps to Configure Agents:
 
