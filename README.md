@@ -188,14 +188,21 @@ SLA (Service Level Agreement) Plans define the expected response and resolution 
 
 Help Topics allow you to categorize incoming tickets and automatically assign departments, priorities, or SLA plans based on the topic selected by the user.
 <p>
+<img width="439" height="256" alt="image" src="https://github.com/user-attachments/assets/a937a16a-872d-4057-a41d-95d04f528469" />
+<p>
+
 Steps to Configure Help Topics:
-<p>
+   
+
 - Go to the Admin Panel.
-<p>
+   
+
 - Click on Manage > Help Topics.
-<p> 
+   
+
 - Click Add New Help Topic or edit an existing one.
-<p>   
+   
+   
 - Fill in the following:
    
    - **Topic Name** – e.g., "Technical Support", "Billing Inquiry"
