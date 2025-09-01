@@ -29,7 +29,7 @@ This guide walks through the post-install setup and configuration of osTicket, a
 <p>
 1. Configure roles and permissions through the 'Admin' tab. 
 
-If it says 'Agent' at the top right, you will know you are on the admin tab.   ~  <img width="150" height="35" alt="image" src="https://github.com/user-attachments/assets/ee72bbc2-1067-4133-aaa0-cc21dfcec087" />
+*If it says 'Agent' at the top right of your screen, you will know you are on the Admin tab.**   ~  <img width="150" height="35" alt="image" src="https://github.com/user-attachments/assets/ee72bbc2-1067-4133-aaa0-cc21dfcec087" />
 
 <p>  
 <img width="442" height="293" alt="image" src="https://github.com/user-attachments/assets/619d7001-7801-45d3-a58e-ddebff59d826" />
