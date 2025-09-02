@@ -18,7 +18,7 @@ This guide walks through the post-install setup and configuration of osTicket, a
 
 - Configure Teams
    
-- Tweak settings to allow anyone to create tickets
+- Configure settings to allow anyone to create tickets
 
 - Configure Agents
 
