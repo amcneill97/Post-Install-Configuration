@@ -12,17 +12,17 @@ This guide walks through the post-install setup and configuration of osTicket, a
 
 <h2> Objectives</h2>
 
-- Configure Roles & Permissions
+- Configure `Roles & Permissions`
 
-- Configure Departments
+- Configure `Departments`
 
-- Configure Teams
+- Configure `Teams`
    
-- Configure settings to allow anyone to create tickets
+- Configure `settings` (*to allow anyone to create tickets*)
 
-- Configure Agents
+- Configure `Agents`
 
-- Configure SLA and Help Topics
+- Configure `SLA` and `Help Topics`
 
 <h2> Steps</h2>
 
