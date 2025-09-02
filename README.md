@@ -10,7 +10,7 @@ This guide walks through the post-install setup and configuration of osTicket, a
 
 - Windows 10</b> (21H2)
 
-<h2> Configuration Objectives</h2>
+<h2> Objectives</h2>
 
 - Configure Roles & Permissions
 
@@ -24,7 +24,7 @@ This guide walks through the post-install setup and configuration of osTicket, a
 
 - Configure SLA and Help Topics
 
-<h2>Configuration Steps</h2>
+<h2> Steps</h2>
 
 <p>
 1. Configure roles and permissions through the 'Admin' tab. 
