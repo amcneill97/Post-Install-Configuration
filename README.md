@@ -50,7 +50,7 @@ To control what agents can see or access in osTicket:
 > 💡 Use Roles and Permissions carefully to maintain security and appropriate access levels within your support system.
 <p>
    
-2. Configure `Departments`
+2. Configure Departments
 <p> 
 <img width="438" height="206" alt="image" src="https://github.com/user-attachments/assets/44dfa4b6-3323-4883-913e-2e785d31a117" />
 
