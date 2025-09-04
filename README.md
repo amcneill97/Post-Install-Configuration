@@ -30,10 +30,9 @@ This guide walks through the post-install setup and configuration of osTicket, a
    
 1. Configure Roles and Permissions through the `Admin` tab. 
 
-*If it says* `Agent` *at the top right of your screen, you will know you are on the* `Admin` *tab.*   ~  <img width="150" height="35" alt="image" src="https://github.com/user-attachments/assets/ee72bbc2-1067-4133-aaa0-cc21dfcec087" />
-
+*If it says* `Agent` *at the top right of your screen, you will know you are on the* `Admin` *tab.*   ~  <img width="99" height="17" alt="Image" src="https://github.com/user-attachments/assets/d89315c3-fc39-4ea8-950f-703114f1c276" />
 <p>  
-<img width="442" height="293" alt="image" src="https://github.com/user-attachments/assets/619d7001-7801-45d3-a58e-ddebff59d826" />
+<img width="442" height="293" alt="Image" src="https://github.com/user-attachments/assets/51be656d-848b-4e89-83a0-683a3a9eb552" />
 <p> 
 To control what agents can see or access in osTicket:
 
@@ -52,7 +51,7 @@ To control what agents can see or access in osTicket:
    
 2. Configure Departments
 <p> 
-<img width="438" height="206" alt="image" src="https://github.com/user-attachments/assets/44dfa4b6-3323-4883-913e-2e785d31a117" />
+<img width="438" height="206" alt="Image" src="https://github.com/user-attachments/assets/6026b281-854e-4306-b2ef-aa92714aa43f" />
 
 <p>
   
@@ -77,8 +76,7 @@ To control what agents can see or access in osTicket:
 <p>
 3. Teams are used to group agents for collaboration and ticket assignment across departments. To set up or manage Teams:
 <p>
-<img width="440" height="65" alt="image" src="https://github.com/user-attachments/assets/7d037f62-1c4b-4d5e-b7a9-9b37aa01b406" />
-
+<img width="440" height="65" alt="Image" src="https://github.com/user-attachments/assets/f4fc887a-e33f-4746-b4f3-05a3450ada33" />
 
 - Navigate to the `Admin` Panel.
   
@@ -101,7 +99,7 @@ To control what agents can see or access in osTicket:
 <p>
 4. Unrestrict ticket creation so anyone can submit tickets
 <p>
-<img width="440" height="281" alt="image" src="https://github.com/user-attachments/assets/db084bd2-3b15-4062-a6bb-6d1d8f1073e7" />
+<img width="440" height="281" alt="Image" src="https://github.com/user-attachments/assets/67d549f3-a997-437c-9a57-9fc959291dc9" />
 
 <p> 
 By default, osTicket may restrict ticket creation to registered users or authenticated agents. To allow anyone to create tickets (e.g., via the web form or email):
@@ -132,7 +130,7 @@ To accept tickets via email from unregistered users:
 5. Configure `Agents`
    
 <p>
-<img width="440" height="397" alt="image" src="https://github.com/user-attachments/assets/1c4b2c1c-559c-4758-9fb1-46b8bea6049d" />
+<img width="440" height="397" alt="Image" src="https://github.com/user-attachments/assets/4923293b-7330-492d-9bd2-09c83bc13b4b" />
 
 <p>
    
@@ -165,7 +163,7 @@ Steps to Configure `Agents`:
 <p> 
 ~ SLA (Service Level Agreement) Plans define the expected response and resolution times for tickets. They help prioritize support and measure performance. ~
 <p>
-<img width="442" height="270" alt="image" src="https://github.com/user-attachments/assets/ef532308-2b56-40a3-9a8a-0982735a5296" />
+<img width="442" height="270" alt="Image" src="https://github.com/user-attachments/assets/e74e7f8c-6e8d-44e0-8a0e-da87e28578b4" />
 <p>
 
 #### Steps to Configure SLA Plans:
@@ -191,7 +189,7 @@ Steps to Configure `Agents`:
 
 Help Topics allow you to categorize incoming tickets and automatically assign departments, priorities, or SLA plans based on the topic selected by the user.
 <p>
-<img width="439" height="256" alt="image" src="https://github.com/user-attachments/assets/a937a16a-872d-4057-a41d-95d04f528469" />
+<img width="439" height="256" alt="Image" src="https://github.com/user-attachments/assets/ac2ce4a0-fcf1-4537-9c18-83de341a9825" />
 <p>
 
 Steps to Configure Help Topics:
